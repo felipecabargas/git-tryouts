@@ -14,6 +14,26 @@
 
 ##Documentation
 
+In the main folder `playground` you will find files with different extensions, they will change overtime and the `hello.md` file will keep track of those changes. The main idea of this project is to help you understand how git handles changes and how to use it IRL.
+
+To start, please use the following commands:
+
+```
+git clone git@github.com:felipecabargas/git-tryouts.git
+```
+
+this will clone the whole repository. Once you did this, run the following command:
+
+```
+git log
+```
+
+You will see the list of commits of this project that match the changes and examples provided in the `hello.md` file.
+
+Keep Learning.
+
+##Git Reference Guides
+
 - [Wiki Pages](https://github.com/felipecabargas/git-tryouts/wiki/Inicio)
 
 ##Credits
